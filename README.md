@@ -1,14 +1,12 @@
-# Hello, I'm Lithfira!
-Hello! I'm **Lithfira** or **il4rx**, an experienced software engineer and full-stack developer with a proven **7-year** track record. <br>
+# Hello, I'm LemonGardener A.K.A Wilson Jr!
+I'm experienced software developer and also a full-stack developer<br>
 My expertise encompasses elegant solutions across the tech stack, from intricate front-ends to robust back-end architectures. <br>
-I'm passionate about staying at the forefront of technology, continually developing my skills, and collaborating on <br> 
-boundary-pushing projects. Let's create something great together!
+I'm passionate about staying at the forefront of technology, continually developing my skills, and collaborating <br> 
 <br><br>
-Take a visual tour of my coding adventures on my Instagram. Follow for project showcases and more, <br>
-If you are interested in following my Instagram, Click the button below.
+Follow me on instagram by clicking this button bellow.
 <br><br>
 <a href="https://instagram.com/linkodev"><img src="https://img.shields.io/badge/Instagram-ffffff?style=flat-square&logo=instagram&labelColor=ffffff&color=a83250"></a>
-<img src="https://komarev.com/ghpvc/?username=il4rx&style=flat-square&color=3344f5">
+<img src="https://komarev.com/ghpvc/?username=LemonGardener&style=flat-square&color=3344f5">
 # Tech Stack
 ![Javascript](https://img.shields.io/badge/Javascript-ffffff?style=for-the-badge&logo=javascript&color=5e5839)
 ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=fff&color=%235487a8)
