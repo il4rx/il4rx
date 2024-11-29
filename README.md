@@ -7,7 +7,7 @@ boundary-pushing projects. Let's create something great together!
 Take a visual tour of my coding adventures on my Instagram. Follow for project showcases and more, <br>
 If you are interested in following my Instagram, Click the button below.
 <br><br>
-<a href="https://instagram.com/xys.albert"><img src="https://img.shields.io/badge/Instagram-ffffff?style=flat-square&logo=instagram&labelColor=ffffff&color=a83250"></a>
+<a href="https://instagram.com/linkodev"><img src="https://img.shields.io/badge/Instagram-ffffff?style=flat-square&logo=instagram&labelColor=ffffff&color=a83250"></a>
 <img src="https://komarev.com/ghpvc/?username=il4rx&style=flat-square&color=3344f5">
 # Tech Stack
 ![Javascript](https://img.shields.io/badge/Javascript-ffffff?style=for-the-badge&logo=javascript&color=5e5839)
