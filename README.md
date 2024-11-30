@@ -5,9 +5,9 @@ I'm passionate about staying at the forefront of technology, continually develop
 <br><br>
 Follow me on instagram by clicking this button bellow.
 <br><br>
-<a href="https://instagram.com/linkodev"><img src="https://img.shields.io/badge/Instagram-ffffff?style=flat-square&logo=instagram&labelColor=ffffff&color=a83250"></a>
-<img src="https://komarev.com/ghpvc/?username=LemonGardener&style=flat-square&color=3344f5">
-# Tech Stack
+<a href="https://instagram.com/linkodev"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&labelColor=ffffff&color=a83250"></a>
+<img src="https://komarev.com/ghpvc/?username=LemonGardener&style=for-the-badge&color=3344f5">
+
 ![Javascript](https://img.shields.io/badge/Javascript-ffffff?style=for-the-badge&logo=javascript&color=5e5839)
 ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=fff&color=%235487a8)
 ![CSharp](https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=csharp&color=%23573c8c)
