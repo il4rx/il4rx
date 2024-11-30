@@ -43,3 +43,7 @@ I'm passionate about staying at the forefront of technology, continually develop
 ![googleanalytics](https://img.shields.io/badge/Google%20Analytics-ffffff?style=for-the-badge&logo=googleanalytics&logoColor=fff&color=%23f27b0c)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=fff&color=%23239e5a)
 ![React](https://img.shields.io/badge/REACT-ffffff?style=for-the-badge&logo=react&logoColor=fff&color=%2333c1f5)
+
+
+![LemonGardener](https://github-readme-stats.vercel.app/api?username=LemonGardener&show_icons=true&theme=tokyonight&hide=["issues"])
+![LemonGardener](https://github-readme-stats.vercel.app/api/top-langs?username=LemonGardener&show_icons=true&theme=tokyonight&layout=compact)
