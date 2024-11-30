@@ -1,4 +1,4 @@
-# Hello, I'm LemonGardener A.K.A Wilson Jr!
+# Hello, I'm LemonGardener!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Welcome%2C+User.username();)](https://git.io/typing-svg)
 <br>
 I'm experienced software developer and also a full-stack developer<br>
