@@ -45,5 +45,7 @@ I'm passionate about staying at the forefront of technology, continually develop
 ![React](https://img.shields.io/badge/REACT-ffffff?style=for-the-badge&logo=react&logoColor=fff&color=%2333c1f5)
 
 
-![LemonGardener](https://github-readme-stats.vercel.app/api?username=LemonGardener&show_icons=true&theme=tokyonight&hide=["issues"])
 ![LemonGardener](https://github-readme-stats.vercel.app/api/top-langs?username=LemonGardener&show_icons=true&theme=tokyonight&layout=compact)
+
+![LemonGardener](https://github-readme-stats.vercel.app/api?username=LemonGardener&show_icons=true&theme=tokyonight&hide=["issues"])
+
