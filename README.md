@@ -1,9 +1,9 @@
 # Hello, I'm LemonGardener A.K.A Wilson Jr!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Welcome%2C+User.username();)](https://git.io/typing-svg)
+<br>
 I'm experienced software developer and also a full-stack developer<br>
 My expertise encompasses elegant solutions across the tech stack, from intricate front-ends to robust back-end architectures. <br>
 I'm passionate about staying at the forefront of technology, continually developing my skills, and collaborating <br> 
-<br><br>
-Follow me on instagram by clicking this button bellow.
 <br><br>
 <a href="https://instagram.com/linkodev"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&labelColor=ffffff&color=a83250"></a>
 <img src="https://komarev.com/ghpvc/?username=LemonGardener&style=for-the-badge&color=3344f5">
