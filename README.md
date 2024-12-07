@@ -5,7 +5,7 @@ I'm experienced software developer and also a full-stack developer<br>
 My expertise encompasses elegant solutions across the tech stack, from intricate front-ends to robust back-end architectures. <br>
 I'm passionate about staying at the forefront of technology, continually developing my skills, and collaborating <br> 
 <br><br>
-<a href="https://instagram.com/linkodev"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&labelColor=ffffff&color=a83250"></a>
+<a href="https://instagram.com/chillpinguin"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&labelColor=ffffff&color=a83250"></a>
 <img src="https://komarev.com/ghpvc/?username=LemonGardener&style=for-the-badge&color=3344f5">
 
 ![Javascript](https://img.shields.io/badge/Javascript-ffffff?style=for-the-badge&logo=javascript&color=5e5839)
