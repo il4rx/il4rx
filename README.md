@@ -5,9 +5,10 @@ The great warrior of madness and havoc was standing tall, imposing the nature of
 The path of shadow belongs to man who have the gall to proudly standing against its madness.<br>
 <br>
 
-![LemonGardener](https://github-readme-stats.vercel.app/api/top-langs?username=LamePuppeteer&show_icons=true&theme=tokyonight&layout=compact)
+![LemonGardener](https://github-readme-stats.vercel.app/api/top-langs?username=LamePuppeteer&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=5&order=3)
 
-![LemonGardener](https://github-readme-stats.vercel.app/api?username=LamePuppeteer&show_icons=true&theme=tokyonight)
+![LemonGardener](https://github-readme-stats.vercel.app/api?username=LamePuppeteer&show_icons=true&theme=tokyonight&hide_border=true&border_radius=5&order=3)
 
+![LemonGardener](https://streak-stats.demolab.com?user=LamePuppeteer&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3)
 
 
