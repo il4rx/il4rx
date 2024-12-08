@@ -8,5 +8,5 @@ I'm passionate about staying at the forefront of technology, continually develop
 
 ![LemonGardener](https://github-readme-stats.vercel.app/api?username=NomanEyes&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![LemonGardener](https://github-readme-stats.vercel.app/api/top-langs?username=NomanEyes&show_icons=true&theme=tokyonight)
+![LemonGardener](https://github-readme-stats.vercel.app/api/top-langs?username=NomanEyes&show_icons=true&theme=tokyonight&layout=compact)
 
