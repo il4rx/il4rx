@@ -7,7 +7,7 @@ The path of shadow belongs to man who have the gall to proudly standing against 
 
 ![LemonGardener](https://github-readme-stats.vercel.app/api/top-langs?username=LamePuppeteer&show_icons=true&theme=tokyonight&layout=compact)
 
-![LemonGardener](https://github-readme-stats.vercel.app/api?username=LamePuppeteer&show_icons=true&theme=tokyonight&hide=["issues"])
+![LemonGardener](https://github-readme-stats.vercel.app/api?username=LamePuppeteer&show_icons=true&theme=tokyonight)
 
 
 
