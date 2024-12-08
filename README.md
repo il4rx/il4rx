@@ -4,6 +4,7 @@ The devil sat by the tree and the seat belongs to me, the eye fluttered open to 
 The great warrior of madness and havoc was standing tall, imposing the nature of the woods.<br>
 The path of shadow belongs to man who have the gall to proudly standing against its madness.<br>
 <br>
+# Stats 🔥
 
 ![LemonGardener](https://github-readme-stats.vercel.app/api/top-langs?username=LamePuppeteer&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=5&order=3)
 
