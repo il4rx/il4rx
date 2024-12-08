@@ -6,7 +6,7 @@ My expertise encompasses elegant solutions across the tech stack, from intricate
 I'm passionate about staying at the forefront of technology, continually developing my skills, and collaborating <br> 
 <br><br>
 
-![LemonGardener](https://github-readme-stats.vercel.app/api/top-langs?username=NomanEyes&show_icons=true&theme=tokyonight&layout=compact)
+![LemonGardener](https://github-readme-stats.vercel.app/api?username=NomanEyes&show_icons=true&theme=dark&hide=["issues"])
 
-![LemonGardener](https://github-readme-stats.vercel.app/api?username=NomanEyes&show_icons=true&theme=tokyonight&hide=["issues"])
+![LemonGardener](https://github-readme-stats.vercel.app/api/top-langs?username=NomanEyes&show_icons=true&theme=dark)
 
